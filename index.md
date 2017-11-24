@@ -1,6 +1,8 @@
 ---
 layout: default
+permalink: /index.html
 ---
+
 Test
 
 _test_
