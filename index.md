@@ -1,8 +1,7 @@
 ---
 layout: default
-permalink: /index.html
 ---
-
+#Stuff
 Test
 
 _test_
