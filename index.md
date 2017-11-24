@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Test
 
 _test_
